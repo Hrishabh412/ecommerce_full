@@ -1,6 +1,9 @@
 # ecommerce_full
 
-below are the steps to deploy any to Heroku
+You can setup app by cloning in your local.
+navigate to ecommerce_full, install dependencies using reqirement.txt or you can run docker-compose up --build. it will build docker containers to run on anhy machine.
+
+Below are the steps to deploy any to Heroku
 Backend: Using Heroku for Django
 Create a Heroku Account and Install Heroku CLI
 
